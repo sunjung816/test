@@ -8,7 +8,7 @@ function onuserinput(){
     }
     textInput = document.getElementById("userInput2");
     if(textInput.value =="cat"){
-        textInput.style ="color:yellow";
+        textInput.style ="color:pink";
     }
     else{
         textInput.style ="color:blue";
