@@ -13,3 +13,6 @@ body {
 img{
     width: 20rem;
 }
+tr{
+    background-color: teal;
+}
